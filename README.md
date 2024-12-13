@@ -1,5 +1,6 @@
 # gr-daf
 
+- [Preformation BC2 2A Se situer dans la filière de formation](/Se%20situer%20dans%20la%20filière%20de%20formation.md)
 - [Preformation BC2 2B Item 1 Connaitre les grands principes de la loi de 1901](/Connaitre%20les%20grands%20principes%20de%20la%20loi%20de%201901.md)
 - [Preformation BC2 2B Item 2 Connaitre les bases de l organisation et du fonctionnement du club](/Connaitre%20les%20bases%20de%20l%20organisation%20et%20du%20fonctionnement%20du%20club.md)
 - [Preformation BC2 2B Item 3 Connaitre les partenaires locaux - mairie communauté de communes](/Connaître%20les%20partenaires%20locaux.md)
